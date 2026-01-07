@@ -1,4 +1,4 @@
-# Cinematic Battle Simulator  
+# Cinematic Battle Simulator Documentation
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/46645a6b-6b9b-41af-9a61-d3679b82df01" />
 
 [View on Fab →](https://www.fab.com/listings/5e6fe2d3-9460-4f86-9220-af701514baeb)
